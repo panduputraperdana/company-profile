@@ -1,0 +1,34 @@
+header-wrapper{	
+	padding: 50px;
+	width: 100%;
+}
+#header{
+	float: left;
+	width: 40%;
+}
+#sub-menu{
+	float: right;
+	width: 60%;
+}
+#sub-menu li{
+	padding: 2px;
+	display: inline-block;
+}
+#sub-menu a{
+	text-decoration: none;
+	color: black;
+	padding: 5px;
+	font-size: 120%;
+} 
+h1{
+    text-align: center;
+    color: black;
+    font-style: roboto;
+    font-weight: bold;
+}
+p{
+  text-align: center;
+  color: black;
+  font-style: roboto;
+
+}
